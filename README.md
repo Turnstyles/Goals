@@ -3,7 +3,7 @@ The High Level Goals of Turnstyles
 
 Foster the creation of multiplayer non-realtime storytelling games for folk with tight schedules and busy lives.
 
-You can think of this as creating components for play by mail games, but there is an additional focus on storytelling which is present but not as heavily emphasised in most play by mail games. I'd like to provide the game mechanics as an engine to base reality on, but have story be the result. Not points, or victory.
+You can simplify this as creating components for play by mail games, but there is an additional focus on storytelling which is present but not as heavily emphasised in most play by mail games. I'd like to provide the game mechanics as an engine to base reality on, but have story be the result. Not points, or victory.
 
 
 # Motivation
