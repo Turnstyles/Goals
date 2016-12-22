@@ -24,3 +24,6 @@ A specific non-goal of Turnstyles is to cater to realtime game mechanics. There 
 That's not the goal here. Chat or voice discussion can be allowed as an extra, but any game mechanics should generally not rely on the response of other players for at least a day if not a week or more.
 
 The average turn should take an hour or two a week or 3 or 4 hours a month and not require any response on any faster timetable than that.
+
+# Licence
+Everything unless otherwise noted is licenced under LGPL3.
