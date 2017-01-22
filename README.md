@@ -3,6 +3,7 @@ The High Level Goals of Turnstyles
 
 To foster browser-based games with a storytelling focus that will appeal to folk with tight schedules and busy lives.
 
+Specifically, eventually a person with a good design aesthetic and a graphic designer friend should be able to create a decent non-realtime turn-based internet game with common casual boardgame mechanics.
 
 # Motivation
 Soon after graduating college, folk who like to play games together run into a common set of problems. Friends are dispersed all around the world, jobs, families and other responsabilities make scheduling time to play games with your friends fairly impossible, and even if you can get a group together once a week or once a month for a few hours, different folk won't be able to make it on one week or another, keeping the scope of any game to be either short or sporatic.
